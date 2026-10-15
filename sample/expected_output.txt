@@ -1,0 +1,7 @@
+2026-09-02  r1   BBB  level below 100
+2026-09-04  r10  BBB  level above 100
+2026-09-04  r2   AAA  ma_cross 2/3 above
+2026-09-07  r1   BBB  level below 100
+2026-09-08  r3   AAA  ma_cross 2/3 below
+2026-09-09  r1   BBB  level below 100
+2026-09-10  r2   AAA  ma_cross 2/3 above

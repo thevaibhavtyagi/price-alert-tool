@@ -1,0 +1,32 @@
+[
+  {
+    "id": "r1",
+    "instrument": "BBB",
+    "type": "level",
+    "direction": "below",
+    "level": 100
+  },
+  {
+    "id": "r10",
+    "instrument": "BBB",
+    "type": "level",
+    "direction": "above",
+    "level": 100
+  },
+  {
+    "id": "r2",
+    "instrument": "AAA",
+    "type": "ma_cross",
+    "short": 2,
+    "long": 3,
+    "direction": "above"
+  },
+  {
+    "id": "r3",
+    "instrument": "AAA",
+    "type": "ma_cross",
+    "short": 2,
+    "long": 3,
+    "direction": "below"
+  }
+]
